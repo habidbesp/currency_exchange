@@ -2,7 +2,7 @@
 
 ## This repository was created in order to practice the acquired knowledge in Web Development.
 
-<img src="./exchange-mockup.png" alt="mockup" width="300" style="margin: 20px 0; "/>
+<img src="./exchange-mockup.png" alt="mockup" width="500" style="margin: 20px 0; "/>
 
 ## Goals
 
